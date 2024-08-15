@@ -1,9 +1,5 @@
 let listaDeNumerosSorteados = [];
-<<<<<<< HEAD
-let numeroLimite = 50;
-=======
-let numeroLimite = 10;
->>>>>>> parent of 7aaaefa (aumentar a quantidade de numeros para 100)
+let numeroLimite = 20;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
